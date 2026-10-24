@@ -50,14 +50,24 @@ You can change the code as much as you like to observe it: your changes stay in 
 
 ## How to review on GitHub
 
+GitHub has two versions of the changes tab, the classic one and a new one. The steps are the same; only
+some button names change.
+
 1. In the PR, open the **Files changed** tab.
-2. Hover over the line with the defect and press the blue **+** (drag to select several lines).
-3. Write the comment and press **Start a review** — ⚠️ **not** *Add single comment*, which publishes it
-   straight away for the whole class to see.
-4. Add the following comments with **Add review comment**. Until you submit the review, **only you can
-   see them**.
-5. When the teacher says so (not before): **Finish your review** → a summary of your review → option
-   **Comment** → **Submit review**.
+2. Hover over the line with the defect and press the blue **+** that appears next to the line number
+   (drag to select several lines).
+3. Write the comment. For the fix, the **±** button in the box's toolbar (*Add a suggestion*) copies the
+   line as a code suggestion: edit it into your version.
+4. Press **Start a review**.
+
+   > ⚠️ **Never** press *Comment* (new view) or *Add single comment* (classic view): they publish the
+   > comment straight away for the whole class to see.
+
+5. Add the following comments the same way (in the classic view the button is called
+   **Add review comment**). Until you submit the review, **only you can see them**.
+6. When the teacher says so (not before): green **Submit review** button at the top right (in the
+   classic view, **Finish your review**) → a summary of your review → leave the **Comment** option
+   selected → **Submit review**.
 
 If you work in pairs, only one of you submits the review and mentions the other (`@username`) in the
 summary.

@@ -49,14 +49,24 @@ Puedes tocar el código todo lo que quieras para observarlo: tus cambios se qued
 
 ## Cómo hacer la review en GitHub
 
+GitHub tiene dos versiones de la pestaña de cambios, la clásica y una nueva. Los pasos son los mismos;
+solo cambia el nombre de algunos botones.
+
 1. En el PR, pestaña **Files changed**.
-2. Pasa el ratón por la línea del defecto y pulsa el **+** azul (arrastrando puedes marcar varias líneas).
-3. Escribe el comentario y pulsa **Start a review** — ⚠️ **no** *Add single comment*, que lo publica en
-   el acto y lo ve toda la clase.
-4. Los siguientes comentarios se añaden con **Add review comment**. Mientras no envíes la review,
-   **solo los ves tú**.
-5. Cuando el profesor lo diga (no antes): **Finish your review** → un resumen de tu revisión → opción
-   **Comment** → **Submit review**.
+2. Pasa el ratón por la línea del defecto y pulsa el **+** azul que aparece junto al número
+   (arrastrando puedes marcar varias líneas).
+3. Escribe el comentario. Para el arreglo, el botón **±** de la barra del cuadro (*Add a suggestion*)
+   copia la línea como sugerencia de código: edítala con tu versión.
+4. Pulsa **Start a review**.
+
+   > ⚠️ **Nunca** pulses *Comment* (vista nueva) ni *Add single comment* (vista clásica): publican el
+   > comentario en el acto y lo ve toda la clase.
+
+5. Los siguientes comentarios se añaden igual (en la vista clásica el botón se llama
+   **Add review comment**). Mientras no envíes la review, **solo los ves tú**.
+6. Cuando el profesor lo diga (no antes): botón verde **Submit review** arriba a la derecha (en la vista
+   clásica, **Finish your review**) → un resumen de tu revisión → deja marcada la opción **Comment** →
+   **Submit review**.
 
 Si trabajas en pareja, envía la review una sola persona y menciona a la otra (`@usuario`) en el resumen.
 
